@@ -1,0 +1,28 @@
+h1{
+color:red;
+font-family: Arial Black
+
+
+
+}
+
+
+body{
+
+	background-image: url("fond6.jpg");
+	background-color:#000000;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+p {
+	color:white;
+	font-family: Comic Sans MS
+
+}
+
+a{
+
+	color:orange;
+}

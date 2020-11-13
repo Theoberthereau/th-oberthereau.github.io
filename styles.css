@@ -1,0 +1,35 @@
+
+
+
+h1{
+color:red;
+font-family: Arial Black
+
+
+
+}
+h2{
+color:red;
+font-family: Comic sans MS;
+
+}
+
+body{
+
+	background-image: url("fond2.jpg");
+	background-color:#000000;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+p {
+	color:white;
+	font-family: Comic Sans MS
+
+}
+
+a{
+
+	color:orange;
+}
